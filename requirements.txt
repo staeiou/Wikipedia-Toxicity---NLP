@@ -5,6 +5,5 @@ nltk
 pandas
 seaborn
 keras
-codecs
 imblearn
 
