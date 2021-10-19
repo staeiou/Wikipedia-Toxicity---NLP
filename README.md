@@ -1,3 +1,7 @@
+Originally by: https://github.com/aytugkaya/Wikipedia-Toxicity---NLP
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/staeiou/Wikipedia-Toxicity---NLP/HEAD)
+
 BiDirectional LSTMs and Attention with Context for Detecting Wikipedia Toxic Comments
 ---------------------------------------------------------------------------------------
 Wikipedia, the largest and most popular general reference work on the World Wide Web, is based on open collaboration. Open collaboration has its own difficulties since it enables insertion of contents that are toxic, due to identity hate, improper language or obscenetiy.
