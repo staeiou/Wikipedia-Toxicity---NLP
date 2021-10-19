@@ -1,0 +1,11 @@
+numpy
+unicodedata
+gensim
+spacy
+nltk
+pandas
+seaborn
+keras
+codecs
+imblearn
+
